@@ -1,0 +1,138 @@
+2024-12-31 12:57:21,615 - INFO - NL_lr: epoch:0lr0.0005
+2024-12-31 12:57:21,615 - INFO - PL_lr: epoch:0lr0.0005
+2024-12-31 12:58:12,457 - INFO - -------Train Acc --------------------
+2024-12-31 12:58:12,458 - INFO - PL epoch:1  accuracy: 0.7615
+2024-12-31 12:58:12,458 - INFO - NL epoch:1  accuracy: 0.6945
+2024-12-31 12:58:18,812 - INFO - ---------------------Test -----------------------
+2024-12-31 12:58:18,812 - INFO - NL - Total accuracy of the network on the test images: 0.7885 
+2024-12-31 12:58:25,117 - INFO - ---------------------Test -----------------------
+2024-12-31 12:58:25,117 - INFO - PL - Total accuracy of the network on the test images: 0.8289 
+2024-12-31 12:58:25,119 - INFO - NL_lr: epoch:1lr0.0005
+2024-12-31 12:58:25,120 - INFO - PL_lr: epoch:1lr0.0005
+2024-12-31 12:59:14,870 - INFO - -------Train Acc --------------------
+2024-12-31 12:59:14,870 - INFO - PL epoch:2  accuracy: 0.8307
+2024-12-31 12:59:14,870 - INFO - NL epoch:2  accuracy: 0.7440
+2024-12-31 12:59:21,307 - INFO - ---------------------Test -----------------------
+2024-12-31 12:59:21,307 - INFO - NL - Total accuracy of the network on the test images: 0.7647 
+2024-12-31 12:59:27,730 - INFO - ---------------------Test -----------------------
+2024-12-31 12:59:27,730 - INFO - PL - Total accuracy of the network on the test images: 0.8396 
+2024-12-31 12:59:27,740 - INFO - NL_lr: epoch:2lr0.0005
+2024-12-31 12:59:27,740 - INFO - PL_lr: epoch:2lr0.0005
+2024-12-31 13:00:18,204 - INFO - -------Train Acc --------------------
+2024-12-31 13:00:18,204 - INFO - PL epoch:3  accuracy: 0.8709
+2024-12-31 13:00:18,204 - INFO - NL epoch:3  accuracy: 0.7871
+2024-12-31 13:00:24,619 - INFO - ---------------------Test -----------------------
+2024-12-31 13:00:24,619 - INFO - NL - Total accuracy of the network on the test images: 0.8022 
+2024-12-31 13:00:30,964 - INFO - ---------------------Test -----------------------
+2024-12-31 13:00:30,964 - INFO - PL - Total accuracy of the network on the test images: 0.8533 
+2024-12-31 13:00:30,975 - INFO - NL_lr: epoch:3lr0.0005
+2024-12-31 13:00:30,975 - INFO - PL_lr: epoch:3lr0.0005
+2024-12-31 13:01:20,761 - INFO - -------Train Acc --------------------
+2024-12-31 13:01:20,761 - INFO - PL epoch:4  accuracy: 0.8918
+2024-12-31 13:01:20,762 - INFO - NL epoch:4  accuracy: 0.8103
+2024-12-31 13:01:27,204 - INFO - ---------------------Test -----------------------
+2024-12-31 13:01:27,204 - INFO - NL - Total accuracy of the network on the test images: 0.7953 
+2024-12-31 13:01:33,548 - INFO - ---------------------Test -----------------------
+2024-12-31 13:01:33,549 - INFO - PL - Total accuracy of the network on the test images: 0.8563 
+2024-12-31 13:01:33,560 - INFO - NL_lr: epoch:4lr0.0005
+2024-12-31 13:01:33,560 - INFO - PL_lr: epoch:4lr0.0005
+2024-12-31 13:02:23,440 - INFO - -------Train Acc --------------------
+2024-12-31 13:02:23,440 - INFO - PL epoch:5  accuracy: 0.9186
+2024-12-31 13:02:23,440 - INFO - NL epoch:5  accuracy: 0.8271
+2024-12-31 13:02:29,822 - INFO - ---------------------Test -----------------------
+2024-12-31 13:02:29,822 - INFO - NL - Total accuracy of the network on the test images: 0.8299 
+2024-12-31 13:02:36,109 - INFO - ---------------------Test -----------------------
+2024-12-31 13:02:36,109 - INFO - PL - Total accuracy of the network on the test images: 0.8660 
+2024-12-31 13:02:36,115 - INFO - NL_lr: epoch:5lr0.0005
+2024-12-31 13:02:36,116 - INFO - PL_lr: epoch:5lr0.0005
+2024-12-31 13:03:25,964 - INFO - -------Train Acc --------------------
+2024-12-31 13:03:25,964 - INFO - PL epoch:6  accuracy: 0.9337
+2024-12-31 13:03:25,964 - INFO - NL epoch:6  accuracy: 0.8417
+2024-12-31 13:03:32,409 - INFO - ---------------------Test -----------------------
+2024-12-31 13:03:32,409 - INFO - NL - Total accuracy of the network on the test images: 0.8286 
+2024-12-31 13:03:38,874 - INFO - ---------------------Test -----------------------
+2024-12-31 13:03:38,874 - INFO - PL - Total accuracy of the network on the test images: 0.8598 
+2024-12-31 13:03:38,881 - INFO - NL_lr: epoch:6lr5e-05
+2024-12-31 13:03:38,881 - INFO - PL_lr: epoch:6lr5e-05
+2024-12-31 13:04:28,844 - INFO - -------Train Acc --------------------
+2024-12-31 13:04:28,844 - INFO - PL epoch:7  accuracy: 0.9651
+2024-12-31 13:04:28,844 - INFO - NL epoch:7  accuracy: 0.8776
+2024-12-31 13:04:35,282 - INFO - ---------------------Test -----------------------
+2024-12-31 13:04:35,282 - INFO - NL - Total accuracy of the network on the test images: 0.8514 
+2024-12-31 13:04:41,616 - INFO - ---------------------Test -----------------------
+2024-12-31 13:04:41,616 - INFO - PL - Total accuracy of the network on the test images: 0.8875 
+2024-12-31 13:04:41,620 - INFO - NL_lr: epoch:7lr5e-05
+2024-12-31 13:04:41,620 - INFO - PL_lr: epoch:7lr5e-05
+2024-12-31 13:05:31,832 - INFO - -------Train Acc --------------------
+2024-12-31 13:05:31,832 - INFO - PL epoch:8  accuracy: 0.9795
+2024-12-31 13:05:31,832 - INFO - NL epoch:8  accuracy: 0.8877
+2024-12-31 13:05:38,327 - INFO - ---------------------Test -----------------------
+2024-12-31 13:05:38,327 - INFO - NL - Total accuracy of the network on the test images: 0.8572 
+2024-12-31 13:05:44,838 - INFO - ---------------------Test -----------------------
+2024-12-31 13:05:44,838 - INFO - PL - Total accuracy of the network on the test images: 0.8905 
+2024-12-31 13:05:44,841 - INFO - NL_lr: epoch:8lr5e-05
+2024-12-31 13:05:44,841 - INFO - PL_lr: epoch:8lr5e-05
+2024-12-31 13:06:34,754 - INFO - -------Train Acc --------------------
+2024-12-31 13:06:34,754 - INFO - PL epoch:9  accuracy: 0.9819
+2024-12-31 13:06:34,754 - INFO - NL epoch:9  accuracy: 0.8919
+2024-12-31 13:06:41,160 - INFO - ---------------------Test -----------------------
+2024-12-31 13:06:41,160 - INFO - NL - Total accuracy of the network on the test images: 0.8598 
+2024-12-31 13:06:47,617 - INFO - ---------------------Test -----------------------
+2024-12-31 13:06:47,618 - INFO - PL - Total accuracy of the network on the test images: 0.8934 
+2024-12-31 13:06:47,628 - INFO - NL_lr: epoch:9lr5e-05
+2024-12-31 13:06:47,628 - INFO - PL_lr: epoch:9lr5e-05
+2024-12-31 13:07:37,216 - INFO - -------Train Acc --------------------
+2024-12-31 13:07:37,216 - INFO - PL epoch:10  accuracy: 0.9835
+2024-12-31 13:07:37,216 - INFO - NL epoch:10  accuracy: 0.8975
+2024-12-31 13:07:43,602 - INFO - ---------------------Test -----------------------
+2024-12-31 13:07:43,602 - INFO - NL - Total accuracy of the network on the test images: 0.8647 
+2024-12-31 13:07:49,941 - INFO - ---------------------Test -----------------------
+2024-12-31 13:07:49,941 - INFO - PL - Total accuracy of the network on the test images: 0.8898 
+2024-12-31 13:07:49,948 - INFO - NL_lr: epoch:10lr5e-05
+2024-12-31 13:07:49,948 - INFO - PL_lr: epoch:10lr5e-05
+2024-12-31 13:08:39,148 - INFO - -------Train Acc --------------------
+2024-12-31 13:08:39,148 - INFO - PL epoch:11  accuracy: 0.9857
+2024-12-31 13:08:39,148 - INFO - NL epoch:11  accuracy: 0.9002
+2024-12-31 13:08:45,553 - INFO - ---------------------Test -----------------------
+2024-12-31 13:08:45,553 - INFO - NL - Total accuracy of the network on the test images: 0.8651 
+2024-12-31 13:08:52,022 - INFO - ---------------------Test -----------------------
+2024-12-31 13:08:52,022 - INFO - PL - Total accuracy of the network on the test images: 0.8934 
+2024-12-31 13:08:52,024 - INFO - NL_lr: epoch:11lr5e-05
+2024-12-31 13:08:52,025 - INFO - PL_lr: epoch:11lr5e-05
+2024-12-31 13:09:41,367 - INFO - -------Train Acc --------------------
+2024-12-31 13:09:41,367 - INFO - PL epoch:12  accuracy: 0.9876
+2024-12-31 13:09:41,367 - INFO - NL epoch:12  accuracy: 0.9051
+2024-12-31 13:09:47,815 - INFO - ---------------------Test -----------------------
+2024-12-31 13:09:47,815 - INFO - NL - Total accuracy of the network on the test images: 0.8644 
+2024-12-31 13:09:54,194 - INFO - ---------------------Test -----------------------
+2024-12-31 13:09:54,195 - INFO - PL - Total accuracy of the network on the test images: 0.8924 
+2024-12-31 13:09:54,203 - INFO - NL_lr: epoch:12lr5e-06
+2024-12-31 13:09:54,204 - INFO - PL_lr: epoch:12lr5e-06
+2024-12-31 13:10:45,011 - INFO - -------Train Acc --------------------
+2024-12-31 13:10:45,012 - INFO - PL epoch:13  accuracy: 0.9900
+2024-12-31 13:10:45,012 - INFO - NL epoch:13  accuracy: 0.9129
+2024-12-31 13:10:51,596 - INFO - ---------------------Test -----------------------
+2024-12-31 13:10:51,596 - INFO - NL - Total accuracy of the network on the test images: 0.8677 
+2024-12-31 13:10:58,142 - INFO - ---------------------Test -----------------------
+2024-12-31 13:10:58,142 - INFO - PL - Total accuracy of the network on the test images: 0.8924 
+2024-12-31 13:10:58,149 - INFO - NL_lr: epoch:13lr5e-06
+2024-12-31 13:10:58,149 - INFO - PL_lr: epoch:13lr5e-06
+2024-12-31 13:11:47,923 - INFO - -------Train Acc --------------------
+2024-12-31 13:11:47,923 - INFO - PL epoch:14  accuracy: 0.9900
+2024-12-31 13:11:47,923 - INFO - NL epoch:14  accuracy: 0.9114
+2024-12-31 13:11:54,315 - INFO - ---------------------Test -----------------------
+2024-12-31 13:11:54,316 - INFO - NL - Total accuracy of the network on the test images: 0.8673 
+2024-12-31 13:12:00,677 - INFO - ---------------------Test -----------------------
+2024-12-31 13:12:00,677 - INFO - PL - Total accuracy of the network on the test images: 0.8931 
+2024-12-31 13:12:00,683 - INFO - NL_lr: epoch:14lr5e-06
+2024-12-31 13:12:00,683 - INFO - PL_lr: epoch:14lr5e-06
+2024-12-31 13:12:50,444 - INFO - -------Train Acc --------------------
+2024-12-31 13:12:50,444 - INFO - PL epoch:15  accuracy: 0.9901
+2024-12-31 13:12:50,444 - INFO - NL epoch:15  accuracy: 0.9150
+2024-12-31 13:12:56,931 - INFO - ---------------------Test -----------------------
+2024-12-31 13:12:56,931 - INFO - NL - Total accuracy of the network on the test images: 0.8670 
+2024-12-31 13:13:03,392 - INFO - ---------------------Test -----------------------
+2024-12-31 13:13:03,392 - INFO - PL - Total accuracy of the network on the test images: 0.8924 
+2024-12-31 13:13:03,401 - INFO - Best PL test accuracy: 0.8934
+2024-12-31 13:13:03,402 - INFO - Best NL test accuracy: 0.8677
+2024-12-31 13:13:03,402 - INFO - Finished Training
